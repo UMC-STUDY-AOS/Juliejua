@@ -1,4 +1,4 @@
-package com.example.umc_aos
+package com.example.umc_flo
 
 import org.junit.Test
 

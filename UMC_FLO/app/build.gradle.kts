@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.umc_aos"
+    namespace = "com.example.umc_flo"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.example.umc_aos"
+        applicationId = "com.example.umc_flo"
         minSdk = 24
         targetSdk = 33
         versionCode = 1
